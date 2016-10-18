@@ -22,4 +22,4 @@ var sharkCreator = createAnimal('Shark')
 
 var sharkWithFrickinLaserbeam = sharkCreator('Laserbeam')
 
-var sharkWithFrickinLaserBeam = sharkCreator('Cannon')
+var sharkWithFrickinCannon = sharkCreator('Cannon')
